@@ -32,19 +32,19 @@ A business analytics project focused on exploring retail performance, identifyin
 
 **Skills demonstrated:** Power BI dashboards, data transformation, business performance analysis, and reporting.
 
-🔗 [Explore my GitHub repositories](https://github.com/Oluwaferanmi-Akinwale?tab=repositories)
+🔗 [View Superstore Data Analysis](https://github.com/Oluwaferanmi-Akinwale/Superstore-Data-Analysis)
 
 ### 3. Retail Sales Analysis
 
 A data analytics project focused on exploring retail sales data, identifying patterns, and supporting evidence-based business decisions.
 
-🔗 [Explore my GitHub repositories](https://github.com/Oluwaferanmi-Akinwale?tab=repositories)
+🔗 [View Retail Sales Analysis](https://github.com/Oluwaferanmi-Akinwale/Retail-Sales-Analysis)
 
 ### 4. Shopping Trends Dashboard
 
 A data visualization project focused on exploring shopping patterns and presenting trends that can support customer and business insights.
 
-🔗 [Explore my GitHub repositories](https://github.com/Oluwaferanmi-Akinwale?tab=repositories)
+🔗 [View Shopping Trends Dashboard](https://github.com/Oluwaferanmi-Akinwale/Shopping-Trends-Dashboard)
 
 ## 🔬 Biostatistics & Health Data Research
 
